@@ -1,0 +1,42 @@
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.dll
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.dll
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+F:\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesAbstractas.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb

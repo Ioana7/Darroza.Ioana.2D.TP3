@@ -1,0 +1,21 @@
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\TECNICATURA PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.dll
+F:\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.dll
+F:\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\TECNICATURA PROGRAMACION II\PROGRAMACION II\Darroza.Ioana.2D.TP3\Archivos\obj\Debug\Archivos.pdb
